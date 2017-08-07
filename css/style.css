@@ -1,0 +1,48 @@
+body {
+  font-size: 50px;
+  background-color: lightgrey;
+}
+
+h2 {
+  font-family: chunkFive;
+  color: grey;
+  margin-left: 530px;
+}
+
+#arena {
+
+  width: 360px;
+  margin: 160px auto 0px auto;
+}
+
+.row {
+
+  clear: both;
+  overflow: hidden;
+}
+
+
+
+
+.box {
+
+  color: grey;
+  float: left;
+  cursor: pointer;
+  width: 116px;
+  height:81px;
+  padding-top: 30px;
+  text-align: center;
+
+
+}
+
+
+.btm{
+  border-bottom: 6px solid grey;
+
+}
+
+.rght {
+  border-right: 6px solid grey;
+}
